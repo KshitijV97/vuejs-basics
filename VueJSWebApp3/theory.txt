@@ -1,0 +1,5 @@
+The v-for directive can be used to display a list of items using the data from an array
+
+We have an ordered list, We will use an array in order to create list items
+
+

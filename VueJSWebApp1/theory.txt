@@ -1,0 +1,11 @@
+Progressive framework for building User Interfaces
+
+Link to CDN, Development version of VueJS
+
+App lives inside that div tag
+
+At the core of VueJS is a system that allows us to declaratively render data to the DOM using a very straightforward template syntax
+
+First thing we specify is where we want our Vue app to live, We are targeting the DOM node with ID of App
+
+The Data in the DOM is linked to Data in Vue instance

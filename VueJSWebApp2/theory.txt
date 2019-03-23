@@ -1,0 +1,9 @@
+Toggle the presence of an element
+
+Directives are prefixed with v- to indicate that they are special attributes provided by vue
+
+These apply reactive behaviour to the rendered DOM
+
+In the example we wanted to say that evaluate the DOM only if the 'seen' property evaluates to true
+
+We can bind data not only to text and attributes but also to the structure of the DOM

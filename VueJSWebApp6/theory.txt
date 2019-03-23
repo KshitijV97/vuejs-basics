@@ -1,0 +1,9 @@
+Component - abstraction that allows us to build large scale applications of small self contained and reusable components
+
+A component is essentially a Vue instance with predefined options
+
+Vue.component(name, options)
+
+Inside that list we are creating an instance of our vue component
+
+Pass data from the parent scope into the child component

@@ -1,0 +1,3 @@
+We update the state of our app without touching the DOm 
+
+All DOM manipulations are handled by Vue and the code we write is simply focused on the underlying logic

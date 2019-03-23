@@ -1,0 +1,5 @@
+Vue is reactive
+
+When data changes, Vue takes care of updating all the places of using that data in webpage.
+
+

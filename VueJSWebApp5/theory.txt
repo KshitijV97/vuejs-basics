@@ -1,0 +1,7 @@
+Two way binding between form inputs and App state
+
+V model takes care of updating the form input whenever the state of our app changes and vice versa
+
+If we change the input field from the user interface, The state of the app will be updated as well
+
+v-model makes user synchronization simple
